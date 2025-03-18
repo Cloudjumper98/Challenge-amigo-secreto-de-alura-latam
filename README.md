@@ -43,4 +43,7 @@ El usuario debe agregar nombres en el campo de texto y precionando el botón "Ad
 # Requisitos
   Se requiere de un entorno de editor de código fuente como lo es Visual Studio Code (VSCode) y un navegador web como Firefox, Google Chrome, o alguna de sus variaciones.
 
-
+# Instalacion
+* Clona el repositorio (puedes encontrarlo en la parte superior presinando el recuadro verde) en tu máquina local:
+  ![image](https://github.com/user-attachments/assets/b35c7a2b-0dd4-48cd-a53c-fb633baab13c)
+* Abre el archivo index.html en tu navegador.
