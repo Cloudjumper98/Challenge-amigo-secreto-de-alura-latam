@@ -40,3 +40,7 @@ El usuario debe agregar nombres en el campo de texto y precionando el botón "Ad
   + Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
   ![image](https://github.com/user-attachments/assets/836bc776-5d7d-496c-b985-3429104db881)
 
+# Requisitos
+  Se requiere de un entorno de editor de código fuente como lo es Visual Studio Code (VSCode) y un navegador web como Firefox, Google Chrome, o alguna de sus variaciones.
+
+
